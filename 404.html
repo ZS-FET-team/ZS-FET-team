@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="generator" content="VuePress 2.0.0-beta.46">
+    <style>
+      :root {
+        --c-bg: #fff;
+      }
+      html.dark {
+        --c-bg: #22272e;
+      }
+      html, body {
+        background-color: var(--c-bg);
+      }
+    </style>
+    <script>
+      const userMode = localStorage.getItem('vuepress-color-scheme');
+			const systemDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+			if (userMode === 'dark' || (userMode !== 'light' && systemDarkMode)) {
+				document.documentElement.classList.toggle('dark', true);
+			}
+    </script>
+    <link rel="icon" href="/logo.png"><title>前端技术团队</title><meta name="description" content="前端工作规范技术文档">
+    <link rel="modulepreload" href="/ZS-FET-team/assets/app.05fe74ab.js"><link rel="modulepreload" href="/ZS-FET-team/assets/404.html.31edc155.js"><link rel="modulepreload" href="/ZS-FET-team/assets/404.html.93146c89.js"><link rel="prefetch" href="/ZS-FET-team/assets/index.html.b54c4b5f.js"><link rel="prefetch" href="/ZS-FET-team/assets/index.html.31f0680b.js"><link rel="prefetch" href="/ZS-FET-team/assets/index.html.a5307e8a.js"><link rel="prefetch" href="/ZS-FET-team/assets/index.html.2f86b8be.js"><link rel="prefetch" href="/ZS-FET-team/assets/404.ad41d4f4.js"><link rel="prefetch" href="/ZS-FET-team/assets/Layout.be53861c.js">
+    <link rel="stylesheet" href="/ZS-FET-team/assets/style.af2e5215.css">
+  </head>
+  <body>
+    <div id="app"><!--[--><div class="theme-container"><div class="theme-default-content"><h1>404</h1><blockquote>There&#39;s nothing here.</blockquote><a href="/ZS-FET-team/" class="">Take me home</a></div></div><!----><!--]--></div>
+    <script type="module" src="/ZS-FET-team/assets/app.05fe74ab.js" defer></script>
+  </body>
+</html>
