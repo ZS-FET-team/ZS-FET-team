@@ -1,1 +1,0 @@
-const t={key:"v-0d3dbb72",path:"/annotation/",title:"\u4EE3\u7801\u6CE8\u91CA\u89C4\u5219",lang:"zh-CN",frontmatter:{title:"\u4EE3\u7801\u6CE8\u91CA\u89C4\u5219"},excerpt:"",headers:[{level:2,title:"annotation",slug:"annotation",children:[{level:3,title:"bbb",slug:"bbb",children:[]}]}],git:{},filePathRelative:"annotation/README.md"};export{t as data};
