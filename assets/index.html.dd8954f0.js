@@ -1,0 +1,1 @@
+const e={key:"v-18d45fd1",path:"/css/less/",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1654651814e3,contributors:[{name:"wudipakeke",email:"wudipakeke@gmail.com",commits:1}]},filePathRelative:"css/less/README.md"};export{e as data};
